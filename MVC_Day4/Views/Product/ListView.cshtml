@@ -1,0 +1,30 @@
+﻿@model IEnumerable<MVC_Day4.Models.Product>
+@{
+    ViewData["Title"] = "ListView";
+}
+
+<h1>ListView</h1>
+
+<h1>GetAllDetails</h1>
+<table>
+    <tr>
+        <th> ID </th>
+        <th> Name </th>
+        <th> Quantity in Stock </th>
+        <th> Details</th>
+        <th> Price</th>
+    </tr>
+    @{
+        foreach (var products in Model)
+
+        {
+            <tr>
+                <td> 1 @products.PCode </td>
+                <td> @products.Name </td>
+                <td>  @products.QtyInStock </td>
+                <td>  @products.Details </td>
+                <td>  @products.Price </td>
+            </tr>
+        }
+    }
+</table>
