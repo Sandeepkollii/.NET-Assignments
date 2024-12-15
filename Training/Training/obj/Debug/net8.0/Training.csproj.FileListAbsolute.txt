@@ -1,0 +1,14 @@
+C:\Users\satya sai sandeep\source\repos\Training\Training\bin\Debug\net8.0\Training.exe
+C:\Users\satya sai sandeep\source\repos\Training\Training\bin\Debug\net8.0\Training.deps.json
+C:\Users\satya sai sandeep\source\repos\Training\Training\bin\Debug\net8.0\Training.runtimeconfig.json
+C:\Users\satya sai sandeep\source\repos\Training\Training\bin\Debug\net8.0\Training.dll
+C:\Users\satya sai sandeep\source\repos\Training\Training\bin\Debug\net8.0\Training.pdb
+C:\Users\satya sai sandeep\source\repos\Training\Training\obj\Debug\net8.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satya sai sandeep\source\repos\Training\Training\obj\Debug\net8.0\Training.AssemblyInfoInputs.cache
+C:\Users\satya sai sandeep\source\repos\Training\Training\obj\Debug\net8.0\Training.AssemblyInfo.cs
+C:\Users\satya sai sandeep\source\repos\Training\Training\obj\Debug\net8.0\Training.csproj.CoreCompileInputs.cache
+C:\Users\satya sai sandeep\source\repos\Training\Training\obj\Debug\net8.0\Training.dll
+C:\Users\satya sai sandeep\source\repos\Training\Training\obj\Debug\net8.0\refint\Training.dll
+C:\Users\satya sai sandeep\source\repos\Training\Training\obj\Debug\net8.0\Training.pdb
+C:\Users\satya sai sandeep\source\repos\Training\Training\obj\Debug\net8.0\Training.genruntimeconfig.cache
+C:\Users\satya sai sandeep\source\repos\Training\Training\obj\Debug\net8.0\ref\Training.dll
