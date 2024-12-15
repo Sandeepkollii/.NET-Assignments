@@ -1,0 +1,14 @@
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\bin\Debug\net8.0\Assignmentt2.exe
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\bin\Debug\net8.0\Assignmentt2.deps.json
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\bin\Debug\net8.0\Assignmentt2.runtimeconfig.json
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\bin\Debug\net8.0\Assignmentt2.dll
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\bin\Debug\net8.0\Assignmentt2.pdb
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\obj\Debug\net8.0\Assignmentt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\obj\Debug\net8.0\Assignmentt2.AssemblyInfoInputs.cache
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\obj\Debug\net8.0\Assignmentt2.AssemblyInfo.cs
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\obj\Debug\net8.0\Assignmentt2.csproj.CoreCompileInputs.cache
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\obj\Debug\net8.0\Assignmentt2.dll
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\obj\Debug\net8.0\refint\Assignmentt2.dll
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\obj\Debug\net8.0\Assignmentt2.pdb
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\obj\Debug\net8.0\Assignmentt2.genruntimeconfig.cache
+C:\Users\satya sai sandeep\source\repos\Assignmentt2\Assignmentt2\obj\Debug\net8.0\ref\Assignmentt2.dll
